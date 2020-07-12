@@ -32,6 +32,7 @@
 * [这个假期，我创建了一个关于家庭网络的 Awesome List](https://blanboom.org/2020/awesome-home-networking-cn/) - 2020-03-03
 * [UniFi Dream Machine 使用体验（4）：问题与不足](https://blanboom.org/2020/udm-4/) - 2020-01-12
 * [UniFi Dream Machine 使用体验（3）：系统探索](https://blanboom.org/2020/udm-3/) - 2020-01-12
+* [UniFi Dream Machine 使用体验（2）：特色功能](https://blanboom.org/2020/udm-2/) - 2020-01-06
 <!-- blog ends -->
 More on [blanboom.org](https://blanboom.org/)
 
