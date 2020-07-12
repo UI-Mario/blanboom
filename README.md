@@ -29,6 +29,9 @@
 * [从 Evernote 到 Notion&#8230;&#8230; 我的笔记软件使用经历](https://blanboom.org/2020/evernote-to-notion/) - 2020-06-20
 * [将个人收藏的科技 DIY 资料整理到了 GitHub 上](https://blanboom.org/2020/awesome-technical-diy/) - 2020-03-22
 * [如何更好地清理 Time Machine 备份](https://blanboom.org/2020/timemachine-cleanup/) - 2020-03-07
+* [这个假期，我创建了一个关于家庭网络的 Awesome List](https://blanboom.org/2020/awesome-home-networking-cn/) - 2020-03-03
+* [UniFi Dream Machine 使用体验（4）：问题与不足](https://blanboom.org/2020/udm-4/) - 2020-01-12
+* [UniFi Dream Machine 使用体验（3）：系统探索](https://blanboom.org/2020/udm-3/) - 2020-01-12
 <!-- blog ends -->
 More on [blanboom.org](https://blanboom.org/)
 
