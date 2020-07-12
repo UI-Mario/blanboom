@@ -24,6 +24,11 @@
 
 ### On my blog
 <!-- blog starts -->
+* [《信息素养通识教程》学习笔记](https://blanboom.org/2020/information-literacy-mooc/) - 2020-06-20
+* [命令行、Vim、版本控制&#8230;&#8230; 这个课程教你使用强大的工具](https://blanboom.org/2020/missing-semester/) - 2020-06-20
+* [从 Evernote 到 Notion&#8230;&#8230; 我的笔记软件使用经历](https://blanboom.org/2020/evernote-to-notion/) - 2020-06-20
+* [将个人收藏的科技 DIY 资料整理到了 GitHub 上](https://blanboom.org/2020/awesome-technical-diy/) - 2020-03-22
+* [如何更好地清理 Time Machine 备份](https://blanboom.org/2020/timemachine-cleanup/) - 2020-03-07
 <!-- blog ends -->
 More on [blanboom.org](https://blanboom.org/)
 
