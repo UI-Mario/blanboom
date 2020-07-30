@@ -24,6 +24,7 @@
 
 ### On my blog
 <!-- blog starts -->
+* [Titan Security Key 使用体验](https://blanboom.org/2020/titan/) - 2020-07-21
 * [《信息素养通识教程》学习笔记](https://blanboom.org/2020/information-literacy-mooc/) - 2020-06-20
 * [命令行、Vim、版本控制&#8230;&#8230; 这个课程教你使用强大的工具](https://blanboom.org/2020/missing-semester/) - 2020-06-20
 * [从 Evernote 到 Notion&#8230;&#8230; 我的笔记软件使用经历](https://blanboom.org/2020/evernote-to-notion/) - 2020-06-20
@@ -32,7 +33,6 @@
 * [这个假期，我创建了一个关于家庭网络的 Awesome List](https://blanboom.org/2020/awesome-home-networking-cn/) - 2020-03-03
 * [UniFi Dream Machine 使用体验（4）：问题与不足](https://blanboom.org/2020/udm-4/) - 2020-01-12
 * [UniFi Dream Machine 使用体验（3）：系统探索](https://blanboom.org/2020/udm-3/) - 2020-01-12
-* [UniFi Dream Machine 使用体验（2）：特色功能](https://blanboom.org/2020/udm-2/) - 2020-01-06
 <!-- blog ends -->
 More on [blanboom.org](https://blanboom.org/)
 
